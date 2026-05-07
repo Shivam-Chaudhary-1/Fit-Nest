@@ -1,0 +1,21 @@
+{
+  "fitness-form": [
+    {
+      "joiningiId": 1002,
+      "name": "Shivam Datta",
+      "contactNo": "8303863319",
+      "duration": "4",
+      "fitnessGoal": "Weight Loss",
+      "preferredTime": "Morning",
+      "id": 1002
+    },
+    {
+      "name": "Prithika Datta",
+      "contactNo": "7407943395",
+      "duration": "3",
+      "fitnessGoal": "Muscle Gain",
+      "preferredTime": "Morning",
+      "id": 1003
+    }
+  ]
+}
